@@ -1,8 +1,8 @@
 # YouTube Downloader Telegram Bot
 
 <p align="center">
-  <a href="https://code.xeze.org/Xeayu/Terms-of-Service/src/branch/main/yt-bot.md">Terms of Service</a> •
-  <a href="https://code.xeze.org/Xeayu/Privacy-Policy/src/branch/main/yt-bot.md">Privacy Policy</a>
+  <a href="https://code.xeze.org/Xeze/Terms-of-Service/src/branch/main/yt-bot.md">Terms of Service</a> •
+  <a href="https://code.xeze.org/Xeze/Privacy-Policy/src/branch/main/yt-bot.md">Privacy Policy</a>
 </p>
 
 Just paste a YouTube link to download high quality videos and audio!
